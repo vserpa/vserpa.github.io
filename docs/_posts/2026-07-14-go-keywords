@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Go keywords complete list"
+author: "Vinicius Serpa"
+tags: [golang, programming language]
+---
+
 Go has **25 keywords**. They are part of the language's syntax and **cannot be used as names for variables, functions, types, packages, etc.**
 
 ### 25 keywords complete list

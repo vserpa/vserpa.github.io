@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Go at the heart of Software Engineering"
+author: "Vinicius Serpa"
+tags: [golang, programming language]
 ---
 
 "Software engineering guided the design of Go. More than most general-purpose programming languages, Go was designed to address a set of software engineering problems we encountered while building large-scale server software." - Article [Go at Google: Language Design in the Service of Software Engineering](https://go.dev/talks/2012/splash.article)
